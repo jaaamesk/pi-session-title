@@ -54,3 +54,7 @@ tsc --noEmit -p tsconfig.json
 ```
 
 `tsconfig.json` maps the host-provided `@earendil-works/pi-coding-agent` and `@earendil-works/pi-ai` specifiers to the globally installed Pi package so the check resolves without a local `node_modules`.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
